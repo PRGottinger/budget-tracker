@@ -2,15 +2,16 @@
 
 ### Description
 
-The Budget Tracker is a progressive web application, which gives users an easy way to track their money. Budget Tracker has offline functionality, allowing users to add expenses and deposits to their budget without an internet connection.  If the user enters transactions offline, the total will be updated when they're brought back online. 
+The Budget Tracker is a progressive web application, which gives users an easy way to track their money. Budget Tracker has offline functionality, allowing users to add expenses and deposits to their budget without an internet connection. If the user enters transactions offline, the total will be updated when they're brought back online.
 
 ## Installation
 
-The application can be downloaded into a user's phone or computer from the browser. It is also deployed live to: 
+The application can be downloaded into a user's phone or computer from the browser. It is also deployed live to: https://afternoon-reef-93872.herokuapp.com/
 
 ## Technology
 
-This application used: 
+This application used:
+
 - node.js
 - Express.js
 - MongoDB
@@ -25,3 +26,5 @@ This application used:
 
 Any questions regarding the project can be directed to me:
 Paul Gottinger [Github](https://github.com/PRGottinger) [Email](pgottinger@mail.com)
+
+![Budget Tracker](./public/images/budget.png)
